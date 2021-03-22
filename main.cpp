@@ -1,3 +1,5 @@
+
+//bob
 #include <iostream>
 
 using namespace std;
@@ -10,9 +12,17 @@ int main()
      << "A - B = " << a - b << '\n'
      << "A * B = " << a * b << '\n'
      << "A / B = " << a / b << '\n';
+
      max=a*b;
 
     cout<<"max="<<a*b<< '\n';
         
+
+   
+     min=a/b;
+   
+    cout<<"min="<<a/b<< '\n';     
+
     return 0;
 }
+
